@@ -24,9 +24,11 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
 ![Electrical Schematic](https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg)
 
 * __Punch List__:
-  * Get the hands on [voice recognition module](https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN).
-  * Get the hands on [accelerometer sensor](https://www.adafruit.com/product/3886).
-  * Built led that can respond to the voice.
-  * Built motor that can respond to the accelerometer signal.
-  * Combine two models.
-  * Attach wheels to the motor.
+  * Must Have: 
+    * [Voice recognition module](https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN)
+    * [Accelerometer sensor](https://www.adafruit.com/product/3886)
+    * LEDs
+    * Motor
+    * Wheels
+    *
+  * Nice to have
