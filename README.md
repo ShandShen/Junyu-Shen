@@ -15,6 +15,10 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
 * I did a small project using LDR sensor and LED.
 ![How it works](https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif)
 
+<p align="center">
+  <img src="(https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif">
+</p>
+
 ## Week 3
 * __Overall concept__:
 
