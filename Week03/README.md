@@ -1,6 +1,6 @@
 ## Week 3
 * __Overall concept__:
-  For my midterm project, I want to create a robot friend that is able to do two things:
+For my midterm project, I want to create a robot friend that is able to do two things:
   * Respond to my voice. By using a voice recognition module the led on the robot would change to the color of whatever I command.
   * Respond to my gesture. By using an accelerometer sensor the robot would be able to turn and move to different direction as I move my hand. 
 
