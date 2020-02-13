@@ -30,5 +30,11 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
     * LEDs
     * Motor
     * Wheels
-    *
-  * Nice to have
+  * Nice to Have:
+    * Speaker so that the robot can talk to me.
+    * Screen so that instead of just color changing leds, the robot can make facial expression. 
+
+* __Interested Sensor__:
+  * [GPS Module](https://www.adafruit.com/product/790)
+  * [Thermal Camera](https://www.adafruit.com/product/3538)
+  * [Leap Motion](https://www.adafruit.com/product/2106)
