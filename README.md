@@ -26,7 +26,7 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
 
 * __Electrical Schematic__:
 <p align="center">
-  <img width="1972" height="1000" src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg">
 </p>
 
 * __Punch List__:
