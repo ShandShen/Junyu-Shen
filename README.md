@@ -4,6 +4,8 @@ For CCA 2020 Spring Digital Electronic
 ## Week 1
 My favourite Processing project from last semester: [Rain Drops](https://github.com/ShandShen/Junyu-Shen/tree/master/Week01)
 
+![img](https://github.com/ShandShen/Junyu-Shen/blob/master/Week01/Screenshot.png)
+
 ## Week 2
 * My favourite Arduino Project: [Arduino Controlled Lightsaber](https://www.youtube.com/watch?v=Dzpe1GVOJXU)
 
