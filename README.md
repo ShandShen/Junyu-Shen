@@ -25,7 +25,9 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
   * Respond to my gesture. By using an accelerometer sensor the robot would be able to turn and move to different direction as I move my hand. 
 
 * __Electrical Schematic__:
-![Electrical Schematic](https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg)
+<p align="center">
+  <img width="1972" height="1000" src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg">
+</p>
 
 * __Punch List__:
   * Must Have: 
