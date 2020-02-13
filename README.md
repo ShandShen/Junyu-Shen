@@ -10,7 +10,7 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
   Because I've always been a big fan of Star Wars, seeing that I'm able to build a lightsaber with Arduino makes me so excited.
 
 * I did a small project using LDR sensor and LED.
-[How it works](https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif)
+![How it works](https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif)
 
 ## Week 3
 * _Overall concept_:
