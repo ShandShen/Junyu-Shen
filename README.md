@@ -13,7 +13,6 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
   Because I've always been a big fan of Star Wars, seeing that I'm able to build a lightsaber with Arduino makes me so excited.
 
 * I did a small project using LDR sensor and LED.
-
 <p align="center">
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif">
 </p>
@@ -26,7 +25,6 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
   * Respond to my gesture. By using an accelerometer sensor the robot would be able to turn and move to different direction as I move my hand. 
 
 * __Electrical Schematic__:
-
 ![Electrical Schematic](https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg)
 
 * __Punch List__:
