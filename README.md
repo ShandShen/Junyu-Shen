@@ -20,7 +20,8 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
   * Respond to my gesture. By using an accelerometer sensor the robot would be able to turn and move to different direction as I move my hand. 
 
 * __Electrical Schematic__:
-![How it works](https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif)
+
+![Electrical Schematic](https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg)
 
 * __Punch List__:
   * Buy [voice recognition module](https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN).
