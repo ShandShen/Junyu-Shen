@@ -6,6 +6,10 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
 
 ![img](https://github.com/ShandShen/Junyu-Shen/blob/master/Week01/Screenshot.png)
 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week01/Screenshot.png">
+</p>
+
 ## Week 2
 * My favourite Arduino Project: [Arduino Controlled Lightsaber](https://www.youtube.com/watch?v=Dzpe1GVOJXU)
 
