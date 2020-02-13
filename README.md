@@ -16,7 +16,7 @@ My favourite Processing project from last semester: [Rain Drops](https://github.
 ![How it works](https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif)
 
 <p align="center">
-  <img src="(https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week02/HowItWorks.gif">
 </p>
 
 ## Week 3
