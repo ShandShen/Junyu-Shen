@@ -2,7 +2,7 @@
 For CCA 2020 Spring Digital Electronic
 
 ## Week 3
-* __Overall concept__:
+* __Overall Concept__:
 
   For my midterm project, I want to create a turntable record player. 
   
@@ -21,6 +21,7 @@ For CCA 2020 Spring Digital Electronic
   * Speaker that plays music.
 
 * __Electrical Schematic__:
+
 <p align="center">
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/Electrical%20Schematic.jpg">
 </p>
