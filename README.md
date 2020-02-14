@@ -12,6 +12,7 @@ For CCA 2020 Spring Digital Electronic
   
   * Rotatory Encoder to control the volume of speakers.
   * Rotation Sensor to detects the angle at which the needle is turned.
+  
   Two outputs: 
   
   * A motor that spins the vinyl record once the needle is placed on the record.
