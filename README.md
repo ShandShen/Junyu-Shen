@@ -5,8 +5,8 @@ For CCA 2020 Spring Digital Electronic
 * __Overall concept__:
 
   For my midterm project, I want to create a robot friend that is able to do two things:
-  * Respond to my voice. By using a voice recognition module the led on the robot would change to the color of whatever I command.
-  * Respond to my gesture. By using an accelerometer sensor the robot would be able to turn and move to different direction as I move my hand. 
+  * Respond to my voice. By using a voice recognition module, the led on the robot will change to the color of what I command.
+  * Respond to my gesture. By using an accelerometer sensor, the robot will be able to move to the different directions as I turn my hand. 
 
 * __Electrical Schematic__:
 <p align="center">
