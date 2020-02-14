@@ -22,7 +22,7 @@ For CCA 2020 Spring Digital Electronic
 
 * __Electrical Schematic__:
 <p align="center">
-  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/electrical%20schematic.jpg">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/Electrical%20Schematic.jpg">
 </p>
 
 * __Punch List__:
