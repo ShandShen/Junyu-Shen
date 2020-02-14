@@ -2,7 +2,7 @@
 For CCA 2020 Spring Digital Electronic
 
 ## Week 3
-* __Overall concept__:
+~~* __Overall concept__:
 
   For my midterm project, I want to create a robot friend that is able to do two things:
   * Respond to my voice. By using a voice recognition module, the led on the robot will change to the color of what I command.
