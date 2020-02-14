@@ -26,7 +26,7 @@
 
 * __Punch List__:
   * Must Have: 
-    * Two [Rotatory Encoder]
+    * Two Rotatory Encoders
     * Speakers
     * Motor
     * Player Module
