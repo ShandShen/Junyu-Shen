@@ -22,7 +22,7 @@ For CCA 2020 Spring Digital Electronic
     * Wheels
   * Nice to Have:
     * Speaker so that the robot can talk to me.
-    * Screen so that instead of just color changing leds, the robot can make facial expression. 
+    * Screen so that instead of just color changing leds, the robot can make facial expression.~~
 
 * __Interested Sensor__:
   * [GPS Module](https://www.adafruit.com/product/790)
