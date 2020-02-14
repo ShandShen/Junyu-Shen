@@ -28,7 +28,7 @@ For CCA 2020 Spring Digital Electronic
 
 * __Punch List__:
   * Must Have: 
-    * Two [Rotatory Encoder]
+    * Two Rotatory Encoders
     * Speakers
     * Motor
     * Player Module
