@@ -15,7 +15,7 @@ For CCA 2020 Spring Digital Electronic
   
   Two outputs: 
   
-  * A motor that spins the vinyl record once the needle is placed on the record.
+  * A motor that spins the vinyl record once the needle is placed on the record. 
   * Speaker that plays music.
 
 * __Electrical Schematic__:
