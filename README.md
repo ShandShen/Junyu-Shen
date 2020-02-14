@@ -2,11 +2,18 @@
 For CCA 2020 Spring Digital Electronic
 
 ## Week 3
-~~* __Overall concept__:
+* __Overall concept__:
 
-  For my midterm project, I want to create a robot friend that is able to do two things:
-  * Respond to my voice. By using a voice recognition module, the led on the robot will change to the color of what I command.
-  * Respond to my gesture. By using an accelerometer sensor, the robot will be able to move to the different directions as I turn my hand. 
+  For my midterm project, I want to create a turntable record player. 
+  <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/Design%20Sketch.jpg">
+</p>
+  Two input sensors:
+  * Rotatory Encoder to control the volume of speakers.
+  * Rotation Sensor to detects the angle at which the needle is turned.
+  Two outputs:
+  * A motor that spins the vinyl record once the needle is placed on the record.
+  * Speaker that plays music.
 
 * __Electrical Schematic__:
 <p align="center">
@@ -15,14 +22,14 @@ For CCA 2020 Spring Digital Electronic
 
 * __Punch List__:
   * Must Have: 
-    * [Voice recognition module](https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN)
-    * [Accelerometer sensor](https://www.adafruit.com/product/3886)
-    * LEDs
+    * Two [Rotatory Encoder]
+    * Speakers
     * Motor
-    * Wheels
+    * Player Module
   * Nice to Have:
-    * Speaker so that the robot can talk to me.
-    * Screen so that instead of just color changing leds, the robot can make facial expression.~~
+    * Laser cut player case.
+    * A screen to show what's playing.
+    * A realistic vinyl records.
 
 * __Interested Sensor__:
   * [GPS Module](https://www.adafruit.com/product/790)
