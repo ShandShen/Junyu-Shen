@@ -1,5 +1,23 @@
-## Week 3
-* _Overall Concept_:
-  For my midterm project, I want to create a robot friend that responds to my voice and gesture. I want my robot to be able to do two things:
-  * Respond to my voice. By using a voice recognition module the led on the robot will change to the color of whatever I command.
-  * Respond to my gesture. By using an accelerometer sensor the robot will be able to turn and move to different directions as I move my hand. 
+## Week 7 Midterm
+* __Overall concept__:
+
+  For my midterm project, I want to create a fake turntable record player. 
+  
+  <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week03/Design%20Sketch.jpg">
+  </p>
+  
+  Two input sensors: 
+  
+  * Rotatory Encoder to control the volume of speakers. 
+  * Rotation Sensor to detects the angle at which the needle is turned.
+  
+  Two outputs: 
+  
+  * A motor that spins the vinyl record once the needle is placed on the record. 
+  * Speaker that plays music.
+
+* __Porject Picture__:
+ <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week07_Midterm/photo.png">
+  </p>
