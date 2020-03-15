@@ -1,6 +1,13 @@
 # Junyu Shen
 For CCA 2020 Spring Digital Electronic
 
+## Week 7 Midterm
+
+* __Porject Picture__:
+ <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week07_Midterm/photo.png">
+  </p>
+
 ## Week 3
 * __Overall Concept__:
 
