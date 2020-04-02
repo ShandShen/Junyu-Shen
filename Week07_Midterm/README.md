@@ -1,6 +1,6 @@
 ## Week 7 Midterm
 
-* __Video Presentation__:
+* __🖥Video Presentation__:
 https://youtu.be/eCoWjlTvd4g
 
 * __Overall concept__:
