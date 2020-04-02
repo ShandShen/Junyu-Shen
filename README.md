@@ -2,7 +2,7 @@
 For CCA 2020 Spring Digital Electronic
 
 ## Week 7 Midterm
-* __ 🖥 Video Presentation__:
+* __🖥Video Presentation__:
 https://youtu.be/eCoWjlTvd4g
 
 * __Overall concept__:
