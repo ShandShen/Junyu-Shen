@@ -1,4 +1,8 @@
 ## Week 7 Midterm
+
+* __Video Presentation__:
+https://youtu.be/eCoWjlTvd4g
+
 * __Overall concept__:
 
   For my midterm project, I want to create a fake turntable record player. 
@@ -9,12 +13,12 @@
   
   Two input sensors: 
   
-  * Rotatory Encoder to control the volume of speakers. 
-  * Rotation Sensor to detects the angle at which the needle is turned.
+  * Potentiometer1 to control the volume of speakers. 
+  * Potentiometer2 to detects the angle at which the needle is turned.
   
   Two outputs: 
   
-  * A motor that spins the vinyl record once the needle is placed on the record. 
+  * A motor that spins the record once the needle is placed on the record. 
   * Speaker that plays music.
 
 * __Porject Picture__:
