@@ -1,6 +1,41 @@
 # Junyu Shen
 For CCA 2020 Spring Digital Electronic
 
+
+## Fianl Project
+* __Overall concept__:
+
+  For my final project, I want to build a social distancing respirator in response to this global pandemic. The respirator will detect the social distance with other people, and monitor people's body temperature.
+  
+  If the wearer is alone, the LED in front of the respirator will be green and the inhalation valve will remain open. 
+  
+  If someone get close within 6 feet, the LED will turn yellow and the speaker will play waining to remind people to keep social distance. At the same time, step motors will shut the inhalation valve to protect us from coronavirus.
+  
+  If someone nearby is having a fever, the LED will turn red, buzzer will go off, valve will shut, sound will play to warn us to run for our life.
+  
+  <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/concept.jpg">
+  </p>
+  
+  Input sensors: 
+  
+  * Temperature Sensor 
+  * Distance Sensor
+  
+  Outputs: 
+  
+  * Speaker 
+  * Buzzer
+  * LED
+  * Step Motor
+
+* __Electrical Schematic__:
+
+<p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/schematic%20diagrams.png">
+</p>
+
+
 ## Week 7 Midterm
 * __🖥Video Presentation__:
 https://youtu.be/eCoWjlTvd4g
@@ -27,6 +62,7 @@ https://youtu.be/eCoWjlTvd4g
  <p align="center">
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/Week07_Midterm/photo.png">
   </p>
+
 
 ## Week 3
 * __Overall Concept__:
