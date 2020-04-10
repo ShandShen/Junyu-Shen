@@ -1,5 +1,31 @@
-## Week 3
-* _Overall Concept_:
-  For my midterm project, I want to create a robot friend that responds to my voice and gesture. I want my robot to be able to do two things:
-  * Respond to my voice. By using a voice recognition module the led on the robot will change to the color of whatever I command.
-  * Respond to my gesture. By using an accelerometer sensor the robot will be able to turn and move to different directions as I move my hand. 
+
+## Fianl Project
+* __Overall concept__:
+
+  For my final project, I want to build a social distancing respirator in response to this global pandemic. The respirator will detect the social distance with other people, and monitor people's body temperature.
+  If the wearer is alone, the LED in front of the respirator will be green and the inhalation valve will remain open. 
+  If someone get close within 6 feet, the LED will turn yellow and the speaker will play waining to remind people to keep social distance. At the same time the inhalation valve will be shut to protect us from coronavirus.
+  If someone near by is having a fever, the LED will turn red, buzzer will go off, valve will shut, sound will play to warn us to run for our life.
+  
+  <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/concept.jpg">
+  </p>
+  
+  Input sensors: 
+  
+  * Temperature Sensor 
+  * Distance Sensor
+  
+  Outputs: 
+  
+  * Speaker 
+  * Buzzer
+  * LED
+  * Step Motor
+
+* __Electrical Schematic__:
+
+<p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/schematic%20diagrams.png">
+</p>
+
