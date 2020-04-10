@@ -6,9 +6,9 @@
   
   If the wearer is alone, the LED in front of the respirator will be green and the inhalation valve will remain open. 
   
-  If someone get close within 6 feet, the LED will turn yellow and the speaker will play waining to remind people to keep social distance. At the same time the inhalation valve will be shut to protect us from coronavirus.
+  If someone get close within 6 feet, the LED will turn yellow and the speaker will play waining to remind people to keep social distance. At the same time, step motors will shut the inhalation valve to protect us from coronavirus.
   
-  If someone near by is having a fever, the LED will turn red, buzzer will go off, valve will shut, sound will play to warn us to run for our life.
+  If someone nearby is having a fever, the LED will turn red, buzzer will go off, valve will shut, sound will play to warn us to run for our life.
   
   <p align="center">
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/concept.jpg">
