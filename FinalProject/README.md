@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=XpB2NBft_pE
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/prototype.jpg">
   </p>
   In order to detect our surroundings at 360 degrees, it probably requires at least 8 sets of smaller sensors working together around us to do so. This is just a testing model of one of the many components. The sensors I used here are way bigger and less accurate. 
+    <p align="center">
+  <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/demonstration.jpg">
+  </p>
 
 
 ## Proposal
