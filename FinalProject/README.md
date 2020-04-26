@@ -9,8 +9,11 @@ https://www.youtube.com/watch?v=XpB2NBft_pE
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/MODEL.png">
   </p>
   * When there are no people around us, the valves remain open, LED goes green.
+  
   * If we are close to any inanimate objects, because the temperature of the object is lower than a human body, the mask will do nothing so you won’t get a false alarm.
+  
   * If someone is getting close within 6 feet, the led on the mask will turn yellow, the valves will be shut, and a warning message will be played to remind people to keep an apporopriate distance.
+  
   * If that person is on fever which is the major sympton of the COVID-19, the led will turn red, valves will be shut, and the mask will yell at you to run for your life.
 
 * __Minimal Viable Prototype__:
