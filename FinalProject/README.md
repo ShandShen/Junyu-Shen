@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=XpB2NBft_pE
   <p align="center">
   <img src="https://github.com/ShandShen/Junyu-Shen/blob/master/FinalProject/MODEL.png">
   </p>
+  
   * When there are no people around us, the valves remain open, LED goes green.
   
   * If we are close to any inanimate objects, because the temperature of the object is lower than a human body, the mask will do nothing so you won’t get a false alarm.
